@@ -1,0 +1,5 @@
+
+-- Audio 
+hl.bind("")
+
+-- Brightness

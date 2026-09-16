@@ -1,0 +1,12 @@
+2026-09-15 22:57:11.676 [info] StorageMainService: creating application shared storage
+2026-09-15 22:57:11.787 [info] [shared storage] Creating shared storage database at '/home/hydramous/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-09-15 22:57:11.788 [info] [shared storage] Initializing fallback application storage (path: /home/hydramous/.config/Code/User/globalStorage/state.vscdb)
+2026-09-15 22:57:11.822 [info] [shared storage] Fallback application storage initialized with 125 items
+2026-09-15 22:57:12.434 [info] update#setState idle
+2026-09-15 22:57:12.480 [info] AgentHostProcessManager: agent host started
+2026-09-15 22:57:12.801 [error] [AgentHost:stderr] (node:27996) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+
+2026-09-15 22:57:42.436 [info] update#setState checking for updates
+2026-09-15 22:57:42.538 [info] update#setState idle
+2026-09-15 23:03:38.525 [info] Extension host with pid 28086 exited with code: 0, signal: unknown.

@@ -1,0 +1,26 @@
+2026-09-15 22:53:25.743 [info] [RemoteAgentHost] Reconciling: desired=[], current=[]
+2026-09-15 22:53:25.773 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-15 22:53:25.928 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey=undefined conversationKey=undefined modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 22:53:26.169 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-15 22:53:26.189 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MWYxMGJjNzQtOTQ4Ny00MmZlLWFmZTQtNTM2NTM5YWU1ODUw" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 22:53:26.256 [info] Started local extension host with pid 27139.
+2026-09-15 22:53:26.530 [info] [AgentHost:renderer] Protocol connection established; clientId=ee25b9f3-f76b-4e77-8d2e-4f6774fefb21
+2026-09-15 22:53:26.562 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MWYxMGJjNzQtOTQ4Ny00MmZlLWFmZTQtNTM2NTM5YWU1ODUw" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 22:53:26.902 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-15 22:53:27.688 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-15 22:53:27.965 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MWYxMGJjNzQtOTQ4Ny00MmZlLWFmZTQtNTM2NTM5YWU1ODUw" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 22:53:28.078 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MWYxMGJjNzQtOTQ4Ny00MmZlLWFmZTQtNTM2NTM5YWU1ODUw" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 22:53:28.232 [error] [Extension Host] (node:27139) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-15 22:53:28.288 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MWYxMGJjNzQtOTQ4Ny00MmZlLWFmZTQtNTM2NTM5YWU1ODUw" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 22:53:28.811 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-15 22:53:28.812 [error] [Extension Host] (node:27139) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+2026-09-15 22:53:28.903 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-15 22:53:29.040 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MWYxMGJjNzQtOTQ4Ny00MmZlLWFmZTQtNTM2NTM5YWU1ODUw" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 22:53:29.122 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-15 22:53:29.233 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-15 22:53:29.245 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MWYxMGJjNzQtOTQ4Ny00MmZlLWFmZTQtNTM2NTM5YWU1ODUw" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 22:53:29.312 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-15 22:53:29.590 [info] [perf] Render performance baseline is 19ms
+2026-09-15 22:53:32.688 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-15 22:56:55.467 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/hydramous/.config/hypr/configs/binds.lua 

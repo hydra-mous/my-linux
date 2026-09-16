@@ -1,0 +1,5 @@
+mainMod = "SUPER"
+
+
+
+terminal = 

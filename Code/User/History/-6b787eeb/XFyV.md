@@ -1,0 +1,4 @@
+
+```shell
+    pacman -Sy 
+```

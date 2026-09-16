@@ -1,0 +1,6 @@
+2026-09-16 22:16:29.803 [info] Extension host with pid 13488 started
+2026-09-16 22:16:29.986 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-09-16 22:16:30.006 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2026-09-16 22:16:30.010 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-09-16 22:16:30.768 [info] Extension host terminating: received terminate message from renderer
+2026-09-16 22:16:30.770 [info] Extension host with pid 13488 exiting with code 0

@@ -1,0 +1,40 @@
+2026-09-15 23:03:47.310 [info] [RemoteAgentHost] Reconciling: desired=[], current=[]
+2026-09-15 23:03:47.339 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-15 23:03:47.543 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey=undefined conversationKey=undefined modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 23:03:47.815 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-15 23:03:47.873 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NmRhNGNlOWQtODE4ZS00Yzg4LTgwM2MtNWEyZWIyMmNkNWUx" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 23:03:47.983 [info] Started local extension host with pid 29854.
+2026-09-15 23:03:48.191 [warning] [ms-toolsai.vscode-jupyter-cell-tags]: View container 'jupyter-variables' does not exist and all views registered to it will be added to 'Explorer'.
+2026-09-15 23:03:48.314 [info] [AgentHost:renderer] Protocol connection established; clientId=623839f2-4c60-45b0-9809-bac69b2be11c
+2026-09-15 23:03:48.812 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-15 23:03:49.778 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-15 23:03:50.111 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NmRhNGNlOWQtODE4ZS00Yzg4LTgwM2MtNWEyZWIyMmNkNWUx" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 23:03:50.212 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NmRhNGNlOWQtODE4ZS00Yzg4LTgwM2MtNWEyZWIyMmNkNWUx" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 23:03:50.320 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-15 23:03:50.322 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-15 23:03:50.322 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-15 23:03:50.404 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-15 23:03:50.447 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NmRhNGNlOWQtODE4ZS00Yzg4LTgwM2MtNWEyZWIyMmNkNWUx" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 23:03:50.545 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-15 23:03:50.545 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-15 23:03:50.545 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-15 23:03:50.588 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NmRhNGNlOWQtODE4ZS00Yzg4LTgwM2MtNWEyZWIyMmNkNWUx" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 23:03:50.880 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NmRhNGNlOWQtODE4ZS00Yzg4LTgwM2MtNWEyZWIyMmNkNWUx" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 23:03:51.100 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NmRhNGNlOWQtODE4ZS00Yzg4LTgwM2MtNWEyZWIyMmNkNWUx" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 23:03:51.300 [info] [perf] Render performance baseline is 21ms
+2026-09-15 23:03:51.566 [error] [Extension Host] (node:29854) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-15 23:03:51.656 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NmRhNGNlOWQtODE4ZS00Yzg4LTgwM2MtNWEyZWIyMmNkNWUx" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-15 23:03:51.997 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-15 23:03:51.997 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-15 23:03:51.997 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-15 23:03:52.104 [error] [Extension Host] (node:29854) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+2026-09-15 23:03:52.286 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-15 23:03:52.286 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-15 23:03:52.286 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-15 23:03:52.322 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-15 23:03:52.535 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-15 23:03:52.599 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-15 23:03:52.660 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-15 23:03:54.778 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-15 23:06:54.607 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NmRhNGNlOWQtODE4ZS00Yzg4LTgwM2MtNWEyZWIyMmNkNWUx" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"

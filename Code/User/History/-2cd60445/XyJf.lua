@@ -1,0 +1,5 @@
+-- MONITORS
+
+hl.monitor({
+    output = ""
+})

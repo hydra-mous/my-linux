@@ -1,0 +1,26 @@
+2026-09-15 21:20:14.625 [info] Extension host with pid 859 started
+2026-09-15 21:20:14.625 [info] Skipping acquiring lock for /home/hydramous/.config/Code/User/workspaceStorage/476687488b4c77ef9c3552bcde59330a.
+2026-09-15 21:20:14.867 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-09-15 21:20:14.890 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-09-15 21:20:14.903 [info] ExtensionService#_doActivateExtension sumneko.lua, startup: false, activationEvent: 'onLanguage:lua'
+2026-09-15 21:20:15.260 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-09-15 21:20:15.263 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2026-09-15 21:20:15.279 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2026-09-15 21:20:15.281 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2026-09-15 21:20:15.341 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-09-15 21:20:15.428 [info] Eager extensions activated
+2026-09-15 21:20:15.460 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:15.463 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:15.478 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:15.483 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:15.915 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:15.924 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:16.007 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:16.261 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:16.361 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:16.435 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:16.447 [info] ExtensionService#_doActivateExtension reesew.everforest-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:16.460 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 21:20:16.494 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-09-15 22:46:21.764 [info] Extension host terminating: received terminate message from renderer
+2026-09-15 22:46:21.789 [info] Extension host with pid 859 exiting with code 0

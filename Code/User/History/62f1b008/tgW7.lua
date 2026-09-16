@@ -1,0 +1,5 @@
+require("keybindings.application")
+require("keybindings.media")
+require("keybindings.mouse")
+require("keybindings.windows")
+require("keybindings.workspace")
