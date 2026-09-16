@@ -1,6 +1,0 @@
-
-```shell
-    pacman -Sy hyprland /
-     
-```
-

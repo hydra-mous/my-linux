@@ -1,5 +1,0 @@
-
--- Audio 
-hl.bind("")
-
--- Brightness

@@ -1,5 +1,0 @@
-
-```shell
-    pacman -Sy git 
-```
-

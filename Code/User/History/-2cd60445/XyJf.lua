@@ -1,5 +1,0 @@
--- MONITORS
-
-hl.monitor({
-    output = ""
-})
