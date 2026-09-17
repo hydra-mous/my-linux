@@ -2,13 +2,21 @@ mainMod = "SUPER"
 
 home = os.getenv("HOME") .. "/.config/hypr"
 
-terminal = home .. "/scripts/launch_first_available.sh 'kitty' 'alacritty'" -- terminal = "kitty"
-fileManager = home .. "/scripts/launch_first_available.sh 'dolphin' 'thunar'"
-appLauncher = "rofi -show drun"
-browser = "brave"
-codeEditor = "code"
-taskManager = 'sh -c "command -v btop && kitty -e btop"'
+FILE_MANAGER = home .. "/scripts/launch_first_available.sh 'dolphin' 'thunar'"
+TASK_MANAGER = 'sh -c "command -v btop && kitty -e btop"'
+
+APP_LAUNCHER = "rofi -show drun"
+BROWSER = "brave"
+
+TERMINAL = home .. "/scripts/launch_first_available.sh 'kitty' 'alacritty'" -- terminal = "kitty"
+CODE_EDITOR = "code"
+
+TEXT_EDITOR = ""
+
+VOLUME_MIXER = ""
+SYSTEM_SETTING = ""
+
 
 -- Windows Action
 killActive = home .. "/scripts/windows/killactive.sh"
-
+toggleCheatSheet = ""
